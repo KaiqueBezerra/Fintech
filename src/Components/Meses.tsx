@@ -1,4 +1,3 @@
-import React from "react";
 import MesBtn from "./MesBtn";
 
 const Meses = () => {
